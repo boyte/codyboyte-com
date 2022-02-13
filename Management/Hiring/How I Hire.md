@@ -1,3 +1,8 @@
+---
+layout: page
+title: How I Hire
+permalink: how-i-hire
+---
 # How I Hire
 
 I've spent a fair amount of time over the years reading about and learning about different hiring practices to make my own processes and thoughts better nuanced to hire good people. While I've learned a lot and it's made me a better hiring manager, it was hard to explain to other people. 
