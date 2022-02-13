@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "62a4569834623945",
+    "type": "split",
+    "children": [
+      {
+        "id": "865699004ad12cff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "B Players Hire C Players.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa960b511490f5f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c4f2e2a310509b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faa164643edd2d90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f190d974bf3e2e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f2c49a675d219138",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3e6128c0bd04f29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9773b7a8b060ec8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "B Players Hire C Players.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "865699004ad12cff",
+  "lastOpenFiles": [
+    "B Players Hire C Players.md",
+    "README.md"
+  ]
+}
