@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Management/Hiring/How I Hire.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Management/Hiring/How I Hire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "865699004ad12cff",
   "lastOpenFiles": [
+    "Management/Hiring/How I Hire.md",
     "README.md",
     "B Players Hire C Players.md"
   ]
