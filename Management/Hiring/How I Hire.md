@@ -26,16 +26,7 @@ To be fair, there is a lot here. I don't expect you to follow it all - I don't f
 
 ## Background
 
-### Books and Articles
-Most of my hiring process comes from Lou Adler's [Performance-Based Hiring](https://performancebasedhiring.com/), GH Smart’s [Topgrading](https://topgrading.com/) and Korn Ferry's [Four Dimensional Executive Assessment](https://www.kornferry.com/content/dam/kornferry/docs/article-migration/KF4D_Executive_Manual_FINAL.pdf).
 
-If someone wants to learn how I hire quickly, I point them to the book [Who](https://whothebook.com/) (the simplified version of Topgrading) or a quick background on [Adler's process](https://www.greenhouse.io/blog/performance-based-hiring-methods)
-
-I've also taken other inspiration from [The Rare Find](https://www.amazon.com/Rare-Find-Great-Talent-Stands/dp/1591845629) to ensure I'm not passing over high potential candidates with broken or non-traditional resume. A short, related article is [the ethics of false negatives and unconscious bias in interviewing](https://www.drmaciver.com/2019/06/the-ethics-of-false-negatives-in-interviewing/). 
-
-You can get additional insights from a few other good articles: 
-- [Graham Duncan on Evaluating Expertise](https://commoncog.com/blog/graham-duncan-on-evaluating-expertise/)
-- Steve Yegge's [Done and Gets Things Smart](http://steve-yegge.blogspot.com/2008/06/done-and-gets-things-smart.html)
 
 
 ### Limitations and Exceptions
@@ -75,3 +66,24 @@ For every job, I write up a job prep document that covers a bunch of different c
 - Intended onboarding process
 - Employee Value Proposition
 - Formal job description
+
+
+## Current Hiring Cycle
+- Define - what do you need, who might do that, why is this a good role for them?
+- Recruit - find the people who are your candidates
+- Evaluate - are they the right person?
+	- Phone screen - are they interested? are you excited about their future potential?
+	- Background Deep Dive - does their past history uncover any worrying trends?
+	- Panel Interivew - how do they hold up against multiple perspectives? are thay an expert?
+- Offer/Make the Sale
+	- Convincing them to work for you
+	- Negotiating an offer
+	- Pitching them internally
+	- Keeping them excited while your cycle runs
+- Onboarding
+	- First Day
+	- First Week
+	- First 30 days
+	- First 90 days
+	- 6 month expectations
+	- 1 year expectations

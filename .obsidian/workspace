@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Management/Hiring/How I Hire.md",
+            "file": "Management/Hiring/Interviewing.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Management/Hiring/How I Hire.md",
+                "file": "Management/Hiring/Interviewing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,13 @@
   },
   "active": "865699004ad12cff",
   "lastOpenFiles": [
+    "Management/Hiring/Interviewing.md",
+    "Management/Hiring/Additional Resources.md",
     "Management/Hiring/How I Hire.md",
+    "Management/Hiring/Closing a Hire.md",
+    "Management/Hiring/Preparing to Hire.md",
+    "Management/Hiring/Recruiting.md",
+    "Management/Hiring/Onboarding.md",
     "B Players Hire C Players.md",
     "README.md"
   ]
